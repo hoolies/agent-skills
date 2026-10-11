@@ -1,6 +1,6 @@
 # Agent skills
 
-Private working copy of the Cursor skills in use on this machine.
+Private working copy of the Cursor skills I use.
 
 Cursor reads the live copies from `~/.agents/skills`. `writing-shell-scripts` also lives in `~/.cursor/skills`. This repo is the snapshot. Editing a file here does not change what Cursor runs until that file is copied back.
 
