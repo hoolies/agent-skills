@@ -1,0 +1,538 @@
+{
+  "skills": {
+    "ask-matt": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "code-review": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "codebase-design": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "diagnosing-bugs": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "domain-modeling": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "grill-with-docs": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "implement": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "implement-spec": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "pr": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "prototype": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "research": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "retro": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "setup-matt-pocock-skills": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "tdd": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "to-spec": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "to-tickets": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "triage": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "wayfinder": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "wizard": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "chief-of-staff": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "loop-me": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "setup-ts-deep-modules": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "writing-beats": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "writing-fragments": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "writing-shape": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "git-guardrails-claude-code": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "migrate-to-shoehorn": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "scaffold-exercises": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "setup-pre-commit": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "grilling": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "handoff": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "teach": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "to-questionnaire": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "wait-what": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "writing-for-agents": {
+      "source": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills.git"
+    },
+    "accessibility-auditing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-analytics": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-api-docs": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-auth": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-docker": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-e2e-tests": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-error-tracking": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-feature-flags": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "adding-stripe": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "api-smoke-testing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "architecture-decision-records": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "auditing-performance": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "auditing-security": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "auto-type-checking": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "babysitting-pr": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "best-of-n-solving": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "building-skills-from-patterns": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "codebase-onboarding": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "comparing-branches-visually": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "converting-css-modules-to-tailwind": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "converting-css-to-tailwind": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "creating-pr": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "dark-mode-testing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "database-design": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "detecting-port-conflicts": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "exporting-to-png": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "finding-dev-server-url": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "fixing-broken-links": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "form-testing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "generating-images": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "grinding-until-pass": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "incident-response": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "kubernetes-deploying": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "monitoring-terminal-errors": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "network-request-auditing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "parallel-ci-triage": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "parallel-code-review": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "parallel-exploring": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "parallel-test-fixing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "profiling-performance": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "prompt-engineering": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "python-tdd-with-uv": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "react-native-patterns": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "recording-browser-flow-as-test": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "responsive-testing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "reviewing-code": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "saving-workspace-context": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "screenshotting-changelog": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "setting-up-ci": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "setting-up-terraform": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "suggesting-cursor-hooks": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "suggesting-cursor-rules": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "suggesting-skills": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "switching-projects": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "systematic-debugging": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "tailing-build-output": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "updating-npm-package": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "using-ui-stack": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "verifying-in-browser": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "verifying-markdown-formatting": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "visual-qa-testing": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "writing-commit-messages": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "writing-copy": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "writing-tests": {
+      "source": "spencerpauly/awesome-cursor-skills",
+      "sourceUrl": "https://github.com/spencerpauly/awesome-cursor-skills.git"
+    },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills.git"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git"
+    },
+    "code-simplifier": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git"
+    },
+    "django-perf-review": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git"
+    },
+    "find-bugs": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git"
+    },
+    "security-review": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git"
+    },
+    "skill-scanner": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git"
+    },
+    "instrument-llm-analytics": {
+      "source": "PostHog/skills",
+      "sourceUrl": "https://github.com/PostHog/skills.git"
+    },
+    "terraform-skill": {
+      "source": "antonbabenko/terraform-skill",
+      "sourceUrl": "https://github.com/antonbabenko/terraform-skill.git"
+    },
+    "concise": {
+      "source": "Cpp1022/concise",
+      "sourceUrl": "https://github.com/Cpp1022/concise.git"
+    },
+    "dependabot-triage": {
+      "source": "akshayrao14/git-practices",
+      "sourceUrl": "https://github.com/akshayrao14/git-practices.git"
+    },
+    "chatcrystal-debug-recall": {
+      "source": "ZengLiangYi/ChatCrystal",
+      "sourceUrl": "https://github.com/ZengLiangYi/ChatCrystal.git"
+    },
+    "chatcrystal-task-recall": {
+      "source": "ZengLiangYi/ChatCrystal",
+      "sourceUrl": "https://github.com/ZengLiangYi/ChatCrystal.git"
+    },
+    "chatcrystal-task-writeback": {
+      "source": "ZengLiangYi/ChatCrystal",
+      "sourceUrl": "https://github.com/ZengLiangYi/ChatCrystal.git"
+    },
+    "authsome": {
+      "source": "agentrhq/authsome",
+      "sourceUrl": "https://github.com/agentrhq/authsome.git"
+    },
+    "penthera": {
+      "source": "danoszz/penthera",
+      "sourceUrl": "https://github.com/danoszz/penthera.git"
+    },
+    "seo-analysis": {
+      "source": "nowork-studio/toprank",
+      "sourceUrl": "https://github.com/nowork-studio/toprank.git"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceUrl": "https://github.com/shadcn/ui.git"
+    },
+    "sentry-code-review": {
+      "source": "getsentry/skills",
+      "sourceUrl": "https://github.com/getsentry/skills.git",
+      "note": "Copied from skills/code-review and renamed so it does not replace mattpocock/code-review."
+    },
+    "reverse-engineer-anything": {
+      "source": "local",
+      "sourceUrl": null,
+      "note": "Kept from the existing ~/.agents/skills copy."
+    }
+  },
+  "local": [
+    "writing-shell-scripts"
+  ],
+  "removed": [
+    "claude-handoff",
+    "hol-guard",
+    "seo-auditing"
+  ]
+}
